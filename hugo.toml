@@ -12,7 +12,7 @@ theme = "hugo-scroll"
 title = "Poetic Hafla - A Celebration of Art and Culture"
 
 # In order to add version information in the page's footer set to true.
-# enableGitInfo = true
+enableGitInfo = true
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
