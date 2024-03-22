@@ -13,3 +13,6 @@ Poetic Hafla offers a mesmerizing mix of artistic performances, featuring:
 - **Art and Culture Showcase**: Discover the rich cultural tapestry of the Mediterranean and Middle East.
 
 Our evenings are filled with strong words, laughter, and heaps of music and dance, ensuring an unforgettable experience for all.
+
+
+{{< youtube id="HN6QrIgfSxk" autoplay="true" >}}

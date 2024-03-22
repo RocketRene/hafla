@@ -14,3 +14,9 @@ At Poetic Hafla, prepare to be whisked away on an eclectic journey through the a
 - **Actors**: Delve into stories told through the compelling medium of acting.
 
 Every Poetic Hafla event is a unique experience, crafted with love and passion by Mediterranean creatives calling Berlin their home. From the stage to the audience, every moment is a testament to the unifying power of art.
+
+
+{{< youtube id="HN6QrIgfSxk" autoplay="true" >}}
+
+
+```
