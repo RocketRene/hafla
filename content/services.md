@@ -1,40 +1,16 @@
 ---
-title: "Services"
+title: "What to Expect"
+header_menu_title: "Services"
+navigation_menu_title: "Our Performances"
+weight: 2
+header_menu: true
 ---
 
-This is a page about the services, which I offer.
+At Poetic Hafla, prepare to be whisked away on an eclectic journey through the arts. Our line-up features:
 
-It carries a lot more detail than what I put on the homepage - I swear!
+- **Up-and-Coming Recording Artists**: Hear the raw, uncensored sounds of tomorrow’s music icons.
+- **Spoken Word Artists**: Experience the power of words as our poets bare their souls.
+- **Dancers**: Be mesmerized by the grace and energy of our dance performances.
+- **Actors**: Delve into stories told through the compelling medium of acting.
 
-You want to know what I can do for you?
-
-Well, let me tell ya!
-
----
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
-
----
-
-## Chef Consulting
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
-
-Don't believe me? Here are some bullets
-
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better
+Every Poetic Hafla event is a unique experience, crafted with love and passion by Mediterranean creatives calling Berlin their home. From the stage to the audience, every moment is a testament to the unifying power of art.

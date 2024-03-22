@@ -1,15 +1,7 @@
 ---
-title: "About the event"
+title: "About Poetic Hafla"
 weight: 3
 header_menu: true
 ---
 
-![Poetic Hafla](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-
-##### Professional Experience
-
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
-
-----
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Poetic Hafla is a celebration of Berlin's art and culture, drawing inspiration from the Middle East and bringing it to the vibrant streets of Kreuzberg. With a variety of performances from emerging artists across disciplines, Poetic Hafla is an evening where the energy never dips, and the atmosphere is always inclusive. From its inception in 2015, Poetic Hafla has become a platform for Mediterranean creatives in Berlin, embodying the spirit of both performance and party. Join us to celebrate art, culture, and community in an environment that welcomes all and excludes none.

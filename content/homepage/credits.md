@@ -1,9 +1,12 @@
 ---
-title: "Credits"
+title: "Credits & Acknowledgments"
 weight: 99
 header_menu: true
 ---
-In this section we give credit to authors of resources used on this demo page.
 
-- {{<extlink text="Chef-hat icons created by Cuputo - Flaticon" href="https://www.flaticon.com/free-icons/chef-hat" icon="fa fa-external-link">}}
-- {{<extlink text="sprinkle-of-rock-salt-on-sliced-vegetables-3209239 - Pexels" href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" icon="fa fa-external-link">}}
+A heartfelt thank you to everyone who makes Poetic Hafla possible - from the artists who share their talent with us, to the audience that brings the energy night after night. Special thanks to:
+
+- The multi-talented musicians, poets, and performers from the Mediterranean and beyond.
+- Our dedicated team of organizers and volunteers.
+- [Venue Name], for hosting us in the heart of Berlin.
+- Our community, for standing by the values of inclusivity and diversity.
